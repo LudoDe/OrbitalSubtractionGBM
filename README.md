@@ -76,7 +76,7 @@ If you use my updated code, kindly it cite as
 }
 ```
 
-Also acknowledge the original developers of the python2 version of the code
+Also acknowledge the original developers of the original version of the code
 ```bibtex
 @ARTICLE{2011arXiv1111.3779F,
        author = {{Fitzpatrick}, Gerard and {Connaughton}, Valerie and {McBreen}, Sheila and {Tierney}, Dave},
