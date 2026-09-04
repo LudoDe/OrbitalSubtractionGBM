@@ -2,6 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/736409431.svg)](https://doi.org/10.5281/zenodo.17831670)
 
+## Browser app
+
+The core CTIME/CSPEC orbital-subtraction workflow can now run directly in a browser at [ludode.github.io/tools/gbm-orbital-subtraction](https://ludode.github.io/tools/gbm-orbital-subtraction/). FITS inputs stay on the local device; the original wxPython application remains available below for detector-angle and occultation diagnostics.
+
 
 
 Tested for Windows 11 and Ubuntu 22.04<br>
